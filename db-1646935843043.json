@@ -1,0 +1,24 @@
+{
+  "graphValues": [
+    {
+      "coinName": "BITCOIN",
+      "coinValues": [
+        10,
+        20,
+        30,
+        40
+      ]
+    },
+    {
+      "coinName": "ETHEREUM",
+      "coinValues": [
+        30,
+        10,
+        15,
+        20,
+        5,
+        45
+      ]
+    }
+  ]
+}

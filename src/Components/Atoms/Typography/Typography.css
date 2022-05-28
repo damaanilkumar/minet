@@ -1,0 +1,99 @@
+.h4 {
+  font-family: Graphik ,sans-serif   ;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 54px;
+  color: #343446;
+  display: block;
+}
+.h6 {
+  font-family:  Graphik ,sans-serif  ;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 34px;
+  color: #343446;
+  display: block;
+}
+.subtitle1 {
+  font-family: Graphik ,sans-serif ;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  color: #343446;
+  letter-spacing: 0.005em;
+  display: block;
+}
+.subtitle2 {
+  font-family: Graphik ,sans-serif ;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  color: #343446;
+  letter-spacing: 0.005em;
+  display: block;
+}
+.body1 {
+  font-family: Graphik ,sans-serif ;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0.01em;
+  color: #343446;
+  display: block;
+}
+.body2 {
+  font-family: Graphik ,sans-serif ;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0.01em;
+  color: #343446;
+  display: block;
+}
+.button {
+  font-family: Graphik ,sans-serif ;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 42px;
+  letter-spacing: 0.01em;
+  color: #343446;
+  display: block;
+}
+.caption1 {
+  font-family: Graphik ,sans-serif ;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.01em;
+  color: #343446;
+  display: block;
+}
+.caption2 {
+  font-family: Graphik ,sans-serif  ;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.01em;
+  color: #343446;
+  display: block;
+}
+.overline {
+  font-family: Graphik ,sans-serif ;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.005em;
+  color: #343446;
+  display: block;
+}
+

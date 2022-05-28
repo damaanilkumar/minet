@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Pages/Sell/Sell.test.tsx">
+    <testCase name="check if buy crypto button is there" duration="946"/>
+    <testCase name="check if it is button" duration="697"/>
+    <testCase name="check which button is it" duration="451"/>
+    <testCase name="check if it is item" duration="465"/>
+    <testCase name="check if Bitcoin amount is displayed" duration="178"/>
+    <testCase name="check if it is an image" duration="468"/>
+    <testCase name="when clicked on buy, sell should disappear" duration="546"/>
+    <testCase name="check if crypto button is there" duration="144"/>
+    <testCase name="when clicked on Sell now, buy should disappear" duration="640"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Pages/Purchase/Purchase.test.tsx">
+    <testCase name="check if buy crypto button is there" duration="925"/>
+    <testCase name="check if it is button" duration="714"/>
+    <testCase name="check if it is button" duration="722"/>
+    <testCase name="check if it is item" duration="443"/>
+    <testCase name="check if Bitcoin amount is displayed" duration="140"/>
+    <testCase name="check if it is item" duration="350"/>
+    <testCase name="when clicked on buy, sell should disappear" duration="672"/>
+    <testCase name="when clicked on sell, buy should disappear" duration="628"/>
+    <testCase name="when clicked on Buy now, buy should disappear" duration="510"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Pages/sellSuccessScreen/Wallet.test.tsx">
+    <testCase name="check if it is button" duration="635"/>
+    <testCase name="check if buy crypto button is there" duration="301"/>
+    <testCase name="check if go to usd coin button is there" duration="294"/>
+    <testCase name="check if it is item" duration="343"/>
+    <testCase name="check if it is text" duration="87"/>
+    <testCase name="check if Bitcoin amount is displayed" duration="101"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/ActiveCoin/ActiveCoin.test.tsx">
+    <testCase name="renders the mentioned title" duration="243"/>
+    <testCase name="renders the mentioned text" duration="53"/>
+    <testCase name="renders the mentioned button" duration="251"/>
+    <testCase name="renders the mentioned bitcoin button" duration="183"/>
+    <testCase name="renders the mentioned XRP button" duration="202"/>
+    <testCase name="renders the mentioned dogecoin button" duration="174"/>
+    <testCase name="renders the mentioned tether button" duration="191"/>
+    <testCase name="renders the mentioned Ethereum button" duration="137"/>
+    <testCase name="renders the mentioned polkadot button" duration="174"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Pages/paymentSuccessScreen/Buy.test.tsx">
+    <testCase name="check if it is button" duration="516"/>
+    <testCase name="check if buy crypto button is there" duration="230"/>
+    <testCase name="check if go to usd coin button is there" duration="311"/>
+    <testCase name="check if Success text is displayed" duration="78"/>
+    <testCase name="check if Success image is rendered" duration="217"/>
+    <testCase name="check if Bitcoin amount is displayed" duration="69"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Templates/Base/Template.test.tsx">
+    <testCase name="should Display Navbar" duration="493"/>
+    <testCase name="should Display at header" duration="245"/>
+    <testCase name="it renders Images" duration="70"/>
+    <testCase name="when clicked on buy, sell should disappear" duration="250"/>
+    <testCase name="when clicked on sell, buy should disappear" duration="274"/>
+    <testCase name="it renders stock Icons in template" duration="79"/>
+    <testCase name="it renders portfolio Icons in template" duration="92"/>
+    <testCase name="it renders trade Icons in template" duration="58"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/App.test.tsx">
+    <testCase name="renders learn react link" duration="736"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Organisms/Summary/OrderSummery.test.tsx">
+    <testCase name="check if it is present" duration="118"/>
+    <testCase name="check if it is button" duration="65"/>
+    <testCase name="check if it is not present" duration="42"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/CryptoList/CryptoList.test.tsx">
+    <testCase name="renders the mentioned bitcoin" duration="121"/>
+    <testCase name="renders the mentioned Ethereum" duration="56"/>
+    <testCase name="renders the mentioned XRP" duration="43"/>
+    <testCase name="renders the mentioned Ethereum2" duration="42"/>
+    <testCase name="renders the mentioned tether" duration="41"/>
+    <testCase name="renders the mentioned polkadot" duration="41"/>
+    <testCase name="renders the mentioned dogecoin" duration="29"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/myWallet/myWallet.test.tsx">
+    <testCase name="renders the text" duration="71"/>
+    <testCase name="renders the value" duration="29"/>
+    <testCase name="renders the properties given" duration="10"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Atoms/Button/Buttons.test.tsx">
+    <testCase name="it renders Button" duration="80"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Organisms/Header/Header.test.tsx">
+    <testCase name="should Display Navbar" duration="222"/>
+    <testCase name="should not Display Navbar" duration="62"/>
+    <testCase name="when clicked on buy, sell should disappear" duration="69"/>
+    <testCase name="when clicked on sell, buy should disappear" duration="57"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/Profile/Profile.test.tsx">
+    <testCase name="renders the avatar" duration="51"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Organisms/AmountDetails/Amount.test.tsx">
+    <testCase name="renders the text which is useful" duration="111"/>
+    <testCase name="renders the text which is similar" duration="40"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/CurrencyCard/CurrencyCard.test.tsx">
+    <testCase name="renders the mentioned currency" duration="71"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Organisms/Countables/Countables.test.tsx">
+    <testCase name="renders the text which is useful" duration="115"/>
+    <testCase name="renders text which is useful" duration="45"/>
+    <testCase name="renders the text  is useful" duration="42"/>
+    <testCase name="renders which coin is useful" duration="31"/>
+    <testCase name="renders the value is useful" duration="26"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Organisms/Footer/Footer.test.tsx">
+    <testCase name="check if it is present" duration="211"/>
+    <testCase name="check if it is button" duration="127"/>
+    <testCase name="check if it is text" duration="36"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Organisms/gridCard/gridCard.test.tsx">
+    <testCase name="check if it is present" duration="63"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/Charts/Charts.test.tsx">
+    <testCase name="Check the values in the card" duration="370"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/Cards/Cards.test.tsx">
+    <testCase name="Check the values in the card" duration="142"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/dropDown/DropDown.test.tsx">
+    <testCase name="renders the text" duration="211"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Organisms/ActiveTransaction/ActiveTransaction.test.tsx">
+    <testCase name="renders the content" duration="230"/>
+    <testCase name="renders the text" duration="101"/>
+    <testCase name="renders the title" duration="80"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/Deposit/deposit.test.tsx">
+    <testCase name="renders the mentioned title" duration="81"/>
+    <testCase name="renders the mentioned text" duration="23"/>
+    <testCase name="renders the text" duration="20"/>
+    <testCase name="renders the image" duration="16"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/Investment/Investment.test.tsx">
+    <testCase name="renders the mentioned title" duration="147"/>
+    <testCase name="renders the mentioned text" duration="82"/>
+    <testCase name="renders the mentioned value" duration="104"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/Editor/Editor.test.tsx">
+    <testCase name="renders the icons" duration="83"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Atoms/Image/Images.test.tsx">
+    <testCase name="it renders Images" duration="47"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/paymentMethod/PaymentMethod.test.tsx">
+    <testCase name="renders the text" duration="56"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/ChartTabs/ChartTabs.test.tsx">
+    <testCase name="renders the mentioned title" duration="127"/>
+    <testCase name="renders the mentioned tabs" duration="42"/>
+    <testCase name="renders the items in tabs" duration="40"/>
+    <testCase name="renders the details" duration="58"/>
+    <testCase name="renders the years" duration="47"/>
+    <testCase name="renders the items" duration="44"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Atoms/Avatar/Avatar.test.tsx">
+    <testCase name="renders the avatar" duration="56"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/TotalBalance/Balance.test.tsx">
+    <testCase name="renders the text" duration="48"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Molecules/reacentTransaction/recentTransaction.test.tsx">
+    <testCase name="renders the text" duration="100"/>
+    <testCase name="renders the given text" duration="18"/>
+    <testCase name="renders the texts" duration="16"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Atoms/Typography/Typography.test.tsx">
+    <testCase name="renders Text passed from prop" duration="25"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Atoms/Icons/Icon.test.tsx">
+    <testCase name="it should render passed icon" duration="85"/>
+    <testCase name="it should render delivery passed icon" duration="6"/>
+    <testCase name="it should render expanded passed icon" duration="7"/>
+    <testCase name="it should render edit passed icon" duration="6"/>
+    <testCase name="it should render pie Chart passed icon" duration="6"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Atoms/Logo/Logo.test.tsx">
+    <testCase name="should render Logo" duration="28"/>
+  </file>
+  <file path="/home/anilkd/Desktop/minet-master 1/minet-master/src/Components/Organisms/Nav-Bars/Nav.test.tsx">
+    <testCase name="it renders Images" duration="33"/>
+    <testCase name="it renders Icons" duration="6"/>
+    <testCase name="it renders dashboard Icons" duration="6"/>
+    <testCase name="it renders notification Icons" duration="6"/>
+    <testCase name="it renders logout Icons" duration="6"/>
+    <testCase name="it renders stock Icons" duration="6"/>
+    <testCase name="it renders portfolio Icons" duration="5"/>
+    <testCase name="it renders trade Icons" duration="6"/>
+  </file>
+</testExecutions>

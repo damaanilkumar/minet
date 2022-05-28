@@ -1,0 +1,23 @@
+.header-footer{
+    height:80px;
+    width:100%;
+}
+#content-wrap{
+    width: 100%;
+    flex:1;
+}
+#content{    
+    display: flex;
+    flex-direction: column;
+}
+#navigation-bar{
+    width:80px;
+    padding:10px;
+    margin-top:20px;
+    margin-bottom: 80px;
+}
+#wrapper{
+    display:flex;
+    flex-direction: row;
+    height:100%;
+}

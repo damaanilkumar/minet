@@ -1,0 +1,64 @@
+
+ {
+   "crypto":
+    [
+      {
+        "id" : 1,
+        "title": "Bitcoin",
+        "image": "/assets/Bitcoin.jpg",
+        "value": "$3,406,069.54"
+        
+    },
+   
+    {
+      "id": 2,
+      "title": "Ethereum",
+      "image": "/assets/Ethereum.jpg",
+      "value": "$240,048.03"
+    },
+   
+    {
+      "id": 3,
+      "title": "Binance",
+      "image": "/assets/Binance.jpg",
+      "value": "$30,054.88"
+    },
+   
+    {
+      "id": 4,
+      "title": "Tether",
+      "image": "/assets/Tether.jpg",
+      "value": "$74.21"
+    },
+
+    {
+      "id": 5,
+      "title": "Cardano",
+      "image": "/assets/Cardano.jpg",
+      "value": "$138.22"
+    },
+   
+    {
+      "id": 6,
+      "title": "XRP",
+      "image": "/assets/XRP.jpg",
+      "value": "$76.73"
+    },
+  
+    {
+      "id": 7,
+      "title": "Dogecoin",
+      "image": "/assets/Dogecoin.jpg",
+      "value": "$21.37"
+    },
+  
+    {
+      "id": 8,
+      "title": "Polkadot",
+      "image": "/assets/Polkadot.jpg ",
+      "value": "$1,642.39"
+    }
+
+]
+ }
+
